@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "toggle_toggle_sneak",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "name": "Toggle Toggle Sneak",
   "description": "Allows toggling the toggle sneak option",
   "authors": [],
@@ -20,6 +20,6 @@
     "fabricloader": "*",
     "fabric-api": "*",
     "fabric": "*",
-    "minecraft": ">=1.21.1"
+    "minecraft": "1.21.4"
   }
 }

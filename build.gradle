@@ -14,7 +14,7 @@ loom {
     splitEnvironmentSourceSets()
 
     mods {
-        "disable_back_perspective" {
+        "toggle_toggle_sneak" {
             sourceSet sourceSets.main
             sourceSet sourceSets.client
         }
