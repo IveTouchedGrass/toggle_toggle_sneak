@@ -12,7 +12,7 @@ public class ModKeybinds {
                 "key.toggle_toggle_sneak.toggle",
                 InputUtil.Type.KEYSYM,
                 GLFW.GLFW_KEY_BACKSLASH,
-                "key.categories.misc"
+                KeyBinding.Category.MISC
         ));
     }
 }

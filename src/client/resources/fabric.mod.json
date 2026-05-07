@@ -17,9 +17,7 @@
     "toggle_toggle_sneak.mixins.json"
   ],
   "depends": {
-    "fabricloader": "*",
     "fabric-api": "*",
-    "fabric": "*",
-    "minecraft": ">=1.21 <=1.21.8"
+    "minecraft": ">=1.21.9 <=1.21.11"
   }
 }
