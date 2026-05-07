@@ -3,7 +3,7 @@
   "id": "toggle_toggle_sneak",
   "version": "1.1.0",
   "name": "Toggle Toggle Sneak",
-  "description": "Allows toggling the toggle sneak option",
+  "description": "Allows toggling the toggle sneak option with a keybind",
   "authors": [],
   "contact": {},
   "license": "MIT",
@@ -20,6 +20,6 @@
     "fabricloader": "*",
     "fabric-api": "*",
     "fabric": "*",
-    "minecraft": ">=1.21.1"
+    "minecraft": ">=1.21 <=1.21.8"
   }
 }
